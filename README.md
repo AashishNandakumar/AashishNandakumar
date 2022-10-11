@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishnandakumar&label=Profile%20views&color=0e75b6&style=flat" alt="aashishnandakumar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ash" target="blank"><img src="https://img.shields.io/twitter/follow/ash?logo=twitter&style=for-the-badge" alt="ash" /></a> </p>
-
 - 🌱 I’m currently learning **Full-stack, blockchain**
 
 - 💬 Ask me about **cryptos, nfts, ui/ux**

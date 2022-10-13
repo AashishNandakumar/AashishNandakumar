@@ -20,7 +20,7 @@ Skills: C | CSS | HTML | Bootstrap | UI/UX
     height='40'>(https://www.linkedin.com/in/aashish-nandakumar-932972228/)
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook'
     height='40'>(https://www.facebook.com/AashishNandakumar)
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram'
+<img src='https://th.bing.com/th/id/OIP.JtmXSh_uyZBaTg1eXd-NtgHaHa?pid=ImgDet&rs=1' alt='instagram'
     height='40'>(https://www.instagram.com/noire7871/)
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter'
     height='40'>(https://twitter.com/@AashishNandak)

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashish Nandakumar</h1>
-<h3 align="center">A curious student</h3>
+<h3 align="center">A curious guy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishnandakumar&label=Profile%20views&color=0e75b6&style=flat" alt="aashishnandakumar" /> </p>
 

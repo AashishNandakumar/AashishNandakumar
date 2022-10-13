@@ -1,10 +1,10 @@
-### Hi there 👋, Hi there Aashish Nandakumar here,
+###<h1> Hi there 👋, Hi there Aashish Nandakumar here,</h1>
 #### Just a curious guy
 ![Just a curious guy](https://cdn.vox-cdn.com/thumbor/kZDv012YLIWSameJ2Kfpr0Y-FBY=/0x0:1200x675/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/61035591/GettyImages_974852790_sized.0.jpg)
 
 I am a Computer Science student, who is passionate about - Military Robotics, Full stack development, Blockchain, Stock-markets. 
 <hr>
-Skills:   C | CSS | HTML | Bootstrap | UI/UX
+<h2>Skills:</h2>   C | CSS | HTML | Bootstrap | UI/UX
 <hr>
 - 🔭 I’m currently working on Grocery management application(in c)<br> 
 - 🌱 I’m currently learning C++, DSA<br> 

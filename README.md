@@ -14,6 +14,7 @@ Skills:   C | CSS | HTML | Bootstrap | UI/UX
 - 😄 Pronouns: He/Him<br> 
 <hr>
 
+ <h2>Connect with me: </h2>
 <img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github'
     height='30'> (https://github.com/AashishNandakumar)
     <br><br>

@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/aashish-nandakumar-932972228](linkedin.com/in/aashish-nandakumar-932972228)
 
-- ⚡ Fun fact **404-not found**
+- ⚡ Fun fact **:This site is still under development, pls mind the links(may not show proper websites)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

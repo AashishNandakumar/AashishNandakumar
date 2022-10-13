@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishnandakumar&label=Profile%20views&color=0e75b6&style=flat" alt="aashishnandakumar" /> </p>
 
-- 🌱 I’m currently learning **Full-stack, blockchain**
+- 🌱 I’m currently into **Full-stack, blockchain, stock-market**
 
 - 💬 Ask me about **cryptos, nfts, ui/ux**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/aashish-nandakumar-932972228](linkedin.com/in/aashish-nandakumar-932972228)
 
-- ⚡ Fun fact **I think Iam an introvert**
+- ⚡ Fun fact **404-not found**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

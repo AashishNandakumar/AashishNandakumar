@@ -4,11 +4,26 @@
 
 I am a Computer Science student, who is passionate about - Military Robotics, Full stack development, Blockchain, Stock-markets. 
 <hr>
-<h2>Skills:</h2>   <img src="https://th.bing.com/th/id/OIP.bkbn2-K7c9rMBV5dvYXDrQHaIh?pid=ImgDet&rs=1"><br>
-    <img src="https://th.bing.com/th/id/OIP.pqcPskVdTrJqfhZ-Z49AtQHaHn?pid=ImgDet&rs=1"><br>
-<img src="https://th.bing.com/th/id/R.bff2c0b46666c0c5ab481470b00887b6?rik=P92L6RfWwzIKZA&riu=http%3a%2f%2f1000marcas.net%2fwp-content%2fuploads%2f2021%2f02%2fCSS-Logo.jpg&ehk=QtYwWmdF%2bNvRDwhBpUrbaRe08gWfiuZXInjLDpL6vPA%3d&risl=&pid=ImgRaw&r=0"><br>
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png"><br>
-    <img src="https://th.bing.com/th/id/OIP.OOr3P52o5jkoV4PeQYQEOQHaFN?pid=ImgDet&rs=1"><br>
+<h2>Skills:</h2>   <img src='https://th.bing.com/th/id/OIP.bkbn2-K7c9rMBV5dvYXDrQHaIh?pid=ImgDet&rs=1' alt='C'
+    height='50'>
+    <br>
+
+
+<img src='https://th.bing.com/th/id/OIP.pqcPskVdTrJqfhZ-Z49AtQHaHn?pid=ImgDet&rs=1' alt='html'
+    height='50'>
+    <br>
+
+<img src='https://th.bing.com/th/id/R.bff2c0b46666c0c5ab481470b00887b6?rik=P92L6RfWwzIKZA&riu=http%3a%2f%2f1000marcas.net%2fwp-content%2fuploads%2f2021%2f02%2fCSS-Logo.jpg&ehk=QtYwWmdF%2bNvRDwhBpUrbaRe08gWfiuZXInjLDpL6vPA%3d&risl=&pid=ImgRaw&r=0' alt='css'
+    height='50'>
+<br>
+
+<img src='https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png' alt='bootstrap'
+    height='50'>
+    <br>
+
+<img src='https://th.bing.com/th/id/OIP.OOr3P52o5jkoV4PeQYQEOQHaFN?pid=ImgDet&rs=1' alt='ui/ux'
+    height='50'>
+    <br>
 <hr>
 - 🔭 I’m currently working on Grocery management application(in c)<br> 
 - 🌱 I’m currently learning C++, DSA<br> 

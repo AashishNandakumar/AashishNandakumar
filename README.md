@@ -1,31 +1,25 @@
-<h1 align="center">Hi 👋, I'm Aashish Nandakumar</h1>
-<h3 align="center">A curious guy</h3>
+### Hi there 👋, Hi there Aashish Nandakumar here,
+#### Just a curious guy
+![Just a curious guy](https://cdn.vox-cdn.com/thumbor/kZDv012YLIWSameJ2Kfpr0Y-FBY=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/61035591/GettyImages_974852790_sized.0.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishnandakumar&label=Profile%20views&color=0e75b6&style=flat" alt="aashishnandakumar" /> </p>
+I am a Computer Science student, who is passionate about - Military Robotics, Full stack development, Blockchain, Stock-markets. 
 
-- 🌱 I’m currently into **Full-stack, blockchain, stock-market**
+Skills: C | CSS | HTML | Bootstrap | UI/UX
 
-- 💬 Ask me about **cryptos, nfts, ui/ux**
+- 🔭 I’m currently working on Grocery management application(in c) 
+- 🌱 I’m currently learning C++, DSA 
+- 👯 I’m looking to collaborate on Robotics 
+- 💬 Ask me about Cryptos, NFT's 
+- 📫 How to reach me: aashishnkumar@gmail.com 
+- 😄 Pronouns: He/Him 
 
-- 📫 How to reach me **aashishnkumar@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/aashish-nandakumar-932972228](linkedin.com/in/aashish-nandakumar-932972228)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AashishNandakumar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Aashish Nandakumar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Aashish Nandakumar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/noire7871/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AashishNandak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17985527)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/u/Gittering-Hunt-1328)  
 
-- ⚡ Fun fact **:This site is still under development, pls mind the links(may not show proper websites)**
+[![trophy](https://github-profile-trophy.vercel.app/?username=AashishNandakumar)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ash" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aashish nandakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashish nandakumar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17985527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17985527" height="30" width="40" /></a>
-<a href="https://fb.com/aashish nandakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aashish nandakumar" height="30" width="40" /></a>
-<a href="https://instagram.com/noire7871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noire7871" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aashishnk_4580" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aashishnk_4580" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aashishnkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aashishnkumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aashishnandakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aashishnandakumar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aashishnkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aashishnkumar" height="30" width="40" /></a>
-<a href="https://discord.gg/ash4580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ash4580" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AashishNandakumar&show_icons=true&count_private=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AashishNandakumar)  
+
+![Profile views](https://gpvc.arturio.dev/AashishNandakumar)  

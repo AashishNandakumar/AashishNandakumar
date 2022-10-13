@@ -14,7 +14,7 @@ Skills: C | CSS | HTML | Bootstrap | UI/UX
 - 😄 Pronouns: He/Him 
 
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'
+<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github'
     height='40'>(https://github.com/AashishNandakumar)
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'
     height='40'>(https://www.linkedin.com/in/aashish-nandakumar-932972228/)

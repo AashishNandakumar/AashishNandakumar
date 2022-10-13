@@ -6,12 +6,12 @@ I am a Computer Science student, who is passionate about - Military Robotics, Fu
 <hr>
 Skills: C | CSS | HTML | Bootstrap | UI/UX
 <hr>
-- 🔭 I’m currently working on Grocery management application(in c) 
-- 🌱 I’m currently learning C++, DSA 
-- 👯 I’m looking to collaborate on Robotics 
-- 💬 Ask me about Cryptos, NFT's 
-- 📫 How to reach me: aashishnkumar@gmail.com 
-- 😄 Pronouns: He/Him 
+- 🔭 I’m currently working on Grocery management application(in c)<br> 
+- 🌱 I’m currently learning C++, DSA<br> 
+- 👯 I’m looking to collaborate on Robotics<br> 
+- 💬 Ask me about Cryptos, NFT's<br> 
+- 📫 How to reach me: aashishnkumar@gmail.com<br> 
+- 😄 Pronouns: He/Him<br> 
 <hr>
 
 <img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github'

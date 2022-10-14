@@ -1,4 +1,4 @@
-<h1> Hi there 👋, Hi there Aashish Nandakumar here,</h1>
+<h1> Hi there 👋 Aashish Nandakumar here,</h1>
 <h3>Just a curious guy</h3>
 
 <img src="https://th.bing.com/th/id/R.e29bb7442cd87ba87598094cb0a62f16?rik=tmKXFbDVvWULWg&riu=http%3a%2f%2fwww.crea-ko.com%2fwp-content%2fuploads%2f2016%2f06%2fillustration-male-engineer-Feature_1290x688_MS1.jpg&ehk=g8zBoAcHYR6WXhYY5Fmx6DwVEC9Dz5M9VMB%2bolRlfdE%3d&risl=&pid=ImgRaw&r=0" >

@@ -19,7 +19,7 @@ I am a Computer Science student, who is passionate about - Military Robotics, Fu
 - 👯 I’m looking to collaborate on Robotics<br><br> 
 - 💬 Ask me about Cryptos, NFT's<br><br> 
 - 📫 How to reach me: aashishnkumar@gmail.com<br><br> 
-- 😄 Pronouns: He/Him<br><br> 
+
 <hr>
 
  <h2>Connect with me: </h2>

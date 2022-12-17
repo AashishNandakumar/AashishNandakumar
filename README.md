@@ -3,7 +3,7 @@
 
 <img src="https://th.bing.com/th/id/R.e29bb7442cd87ba87598094cb0a62f16?rik=tmKXFbDVvWULWg&riu=http%3a%2f%2fwww.crea-ko.com%2fwp-content%2fuploads%2f2016%2f06%2fillustration-male-engineer-Feature_1290x688_MS1.jpg&ehk=g8zBoAcHYR6WXhYY5Fmx6DwVEC9Dz5M9VMB%2bolRlfdE%3d&risl=&pid=ImgRaw&r=0" >
 
-I am a Computer Science student, who is passionate about - Military Robotics, Full stack development, Blockchain, Stock-markets. 
+I am a Computer Science student, who is passionate about - Military Robotics, Full stack development, Blockchain, Stock-markets, Data-Science. 
 <hr>
 <h2>Skills:</h2>   
 <img src='https://cdn-icons-png.flaticon.com/512/3097/3097008.png' alt='C'height='50'>
@@ -14,9 +14,9 @@ I am a Computer Science student, who is passionate about - Military Robotics, Fu
 <img src='https://cdn-icons-png.flaticon.com/512/1991/1991307.png' alt='ui/ux'height='50'>
     
 <hr>
-- 🔭 I’m currently working on Grocery management application(in c)<br><br> 
-- 🌱 I’m currently learning C++, DSA<br><br> 
-- 👯 I’m looking to collaborate on Robotics<br><br> 
+- 🔭 I’m currently working on Blockchain<br><br> 
+- 🌱 I’m currently learning C++, java and DSA<br><br> 
+- 👯 I’m looking to collaborate on the field of data science, ai-ml and web 3.0<br><br> 
 - 💬 Ask me about Cryptos, NFT's<br><br> 
 - 📫 How to reach me: aashishnkumar@gmail.com<br><br> 
 

@@ -7,11 +7,12 @@ I am a Computer Science student, who is passionate about - Military Robotics, Fu
 <hr>
 <h2>Skills:</h2>   
 <img src='https://cdn-icons-png.flaticon.com/512/3097/3097008.png' alt='C'height='50'>
-<img src='https://cdn-icons-png.flaticon.com/512/6132/6132222.png' alt='C'height='50'>
-<img src='https://cdn-icons-png.flaticon.com/512/888/888859.png' alt='html'height='50'>
-<img src='https://cdn-icons-png.flaticon.com/512/888/888847.png' alt='css'height='50'>
-<img src='https://cdn-icons-png.flaticon.com/512/5968/5968672.png' alt='bootstrap'height='50'>
-<img src='https://cdn-icons-png.flaticon.com/512/1991/1991307.png' alt='ui/ux'height='50'>
+<img src='https://cdn-icons-png.flaticon.com/512/6132/6132222.png' alt='C++'height='50'>
+<img src='https://cdn-icons-png.flaticon.com/512/888/888859.png' alt='HTML'height='50'>
+<img src='https://cdn-icons-png.flaticon.com/512/888/888847.png' alt='CSS'height='50'>
+<img src='https://cdn-icons-png.flaticon.com/512/5968/5968672.png' alt='Bootstrap'height='50'>
+<img src='https://cdn-icons-png.flaticon.com/512/1991/1991307.png' alt='UI and UX'height='50'>
+<img src='https://cdn-icons-png.flaticon.com/512/5968/5968282.png' alt='JAVA'height='50'>
     
 <hr>
 - 🔭 I’m currently working on Blockchain<br><br> 

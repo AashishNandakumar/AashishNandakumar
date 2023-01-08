@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aashsish Nandakumar</h1>
+<h1 align="center">Hi 👋, I'm Aashish Nandakumar</h1>
 <h3 align="center">A curious learner.</h3>
 <a href="https://twitter.com/aashishnandak" target="blank"><img align="center" src="http://www.crea-ko.com/wp-content/uploads/2016/06/illustration-male-engineer-Feature_1290x688_MS1.jpg" alt="aashishnandak" height="500" width="1010" /></a>
 

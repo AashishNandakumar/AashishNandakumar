@@ -148,6 +148,10 @@
 
 
 <h2 align="left" id="macropower-tech">My projects</h2>
+
+> All my projects I have worked on.
+
+
 <h4 align="left">Coming soon...</h4>
 
 

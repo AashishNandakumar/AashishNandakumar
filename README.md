@@ -152,8 +152,9 @@
 
 > All my projects I have worked on.
 
+- 📂 &nbsp;Personal crypto token deployed on Solana Mainnet - **[NOIRE]**
+- 📂 &nbsp;Weather application - **[Weather]**
 
-<h4 align="left">Coming soon...</h4>
 
 
 <h2 align="left">Connect with me:</h2>
@@ -169,4 +170,5 @@
 [issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
 [linkedin]: https://www.linkedin.com/in/aashish-nandakumar-932972228/ "Aashish Nandakumar"
 [Github]: https://github.com/AashishNandakumar/AashishNandakumar "Aashish Nandakumar"
-
+[NOIRE]: https://explorer.solana.com/address/nMAzUvvFP3eUW9CAx9VSzLogYWznNSTZdWmn2855UJZ "NOIRE token"
+[Weather]: https://github.com/AashishNandakumar/Weather "Weather  application"

@@ -134,6 +134,13 @@
   </tr>
 </table>
 
+<h2 align="left" id="macropower-tech">My projects</h2>
+
+> All my projects I have worked on.
+
+- 📂 &nbsp;Personal crypto token deployed on Solana Mainnet - **[NOIRE]**
+- 📂 &nbsp;Weather application - **[Weather]**
+
 
 <h2 align="left">Github stats</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aashishnandakumar&label=Profile%20views&color=0e75b6&style=flat" alt="aashishnandakumar" /> </p>
@@ -148,12 +155,6 @@
 
 
 
-<h2 align="left" id="macropower-tech">My projects</h2>
-
-> All my projects I have worked on.
-
-- 📂 &nbsp;Personal crypto token deployed on Solana Mainnet - **[NOIRE]**
-- 📂 &nbsp;Weather application - **[Weather]**
 
 
 

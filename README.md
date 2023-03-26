@@ -144,8 +144,8 @@
 <h2 align="left" id="macropower-tech">My Certifications</h2>
 
 > All my certificates.
+<img align="center" src="https://media2.giphy.com/media/iHD88spVFkL7mZakwa/giphy.gif?cid=ecf05e47w3vdpnl1haf3bqkcarppu2040l5wu73j7auqjuzl&rid=giphy.gif&ct=g" />
 
-coming soon...
 
 
 <h2 align="left">Github stats</h2>

@@ -5,7 +5,7 @@
 
 
 - :office: &nbsp;I'm currently studying at **[RNSIT]**
-- :seedling: &nbsp;I’m currently learning **JAVA**
+- :seedling: &nbsp;I’m currently learning **JAVA + DSA**
 - :speech_balloon: &nbsp;I like to talk about **AI** and **Blockchain**
 - :mailbox: &nbsp;Ask me anything on  **C**
 - 👨‍💻 Most of my projects are available on **[Github]**

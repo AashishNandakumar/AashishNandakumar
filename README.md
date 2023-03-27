@@ -1,7 +1,7 @@
 
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Aashish Nandakumar</h1>
 <img align="right" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" />
-<h3 align="left">I am a Versatilist, doing Random Engineering things</h3>
+<h3 align="left">I am a Versatilist, doing Random things</h3>
 
 
 - :office: &nbsp;I'm currently studying at **[RNSIT]**

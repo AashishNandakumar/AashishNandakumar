@@ -140,7 +140,7 @@
 
 - 📂 &nbsp;Personal crypto token deployed on Solana Mainnet - **[NOIRE]**
 - 📂 &nbsp;Weather application - **[Weather]**
-- 📂 &nbsp;Browser extension - **[Chat-Mail]**
+- 📂 &nbsp;Browser extension - **[GPT-Mail]**
 
 
 <h2 align="left" id="macropower-tech">My Certifications</h2>
@@ -181,4 +181,4 @@
 [Github]: https://github.com/AashishNandakumar/AashishNandakumar "Aashish Nandakumar"
 [NOIRE]: https://explorer.solana.com/address/nMAzUvvFP3eUW9CAx9VSzLogYWznNSTZdWmn2855UJZ "NOIRE token"
 [Weather]: https://github.com/AashishNandakumar/Weather "Weather application"
-[Chat-Mail]: https://github.com/AashishNandakumar/ChatGPT-Gmail "Browser extension"
+[GPT-Mail]: https://github.com/AashishNandakumar/ChatGPT-Gmail "Browser extension"

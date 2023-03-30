@@ -1,8 +1,6 @@
 
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Aashish Nandakumar</h1>
-<!-- <img align="right" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" /> -->
-<img align="right" src="https://media.tenor.com/fkPxqJwOVhoAAAAC/qforce-stat.gif" />
-
+<img align="right" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" />
 
 <h3 align="left">I am a Versatilist, doing Random things</h3>
 

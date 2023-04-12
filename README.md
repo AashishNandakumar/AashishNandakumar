@@ -139,6 +139,7 @@
 
 > All my projects I have worked on.
 
+- 📂 &nbsp;Finance Manager - **[FM]**
 - 📂 &nbsp;Personal crypto token deployed on Solana Mainnet - **[NOIRE]**
 - 📂 &nbsp;Weather application - **[Weather]**
 - 📂 &nbsp;Browser extension - **[GPT-Mail]**
@@ -183,3 +184,5 @@
 [NOIRE]: https://explorer.solana.com/address/nMAzUvvFP3eUW9CAx9VSzLogYWznNSTZdWmn2855UJZ "NOIRE token"
 [Weather]: https://github.com/AashishNandakumar/Weather "Weather application"
 [GPT-Mail]: https://github.com/AashishNandakumar/ChatGPT-Gmail "Browser extension"
+[FM]: https://github.com/AashishNandakumar/Finance-Manager "Finance Manager"
+

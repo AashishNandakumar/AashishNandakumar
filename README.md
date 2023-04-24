@@ -159,7 +159,13 @@
 <h2 align="left" id="macropower-tech">My Certifications</h2>
 
 > All my certificates.
-<img align="center" src="https://media2.giphy.com/media/iHD88spVFkL7mZakwa/giphy.gif?cid=ecf05e47w3vdpnl1haf3bqkcarppu2040l5wu73j7auqjuzl&rid=giphy.gif&ct=g" />
+<!-- <img align="center" src="https://media2.giphy.com/media/iHD88spVFkL7mZakwa/giphy.gif?cid=ecf05e47w3vdpnl1haf3bqkcarppu2040l5wu73j7auqjuzl&rid=giphy.gif&ct=g" /> -->
+<!-- <h2>Certificates</h2> -->
+<ul>
+  <li> :dart:	<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-0a970422-9ed7-4b51-80f2-ace125200d73.jpg?v=1681112993000">Mastering Data structures and Algorithms using C and C++</a></li>
+  <li> :dart:	<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-fa9d26cf-2e5a-49d1-b348-45f497283fe2.jpg?v=1664608190000">Complete Web and mobile designer</a></li>
+  <li> :dart:	<a href="https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_29959473947367270000_shared/1-2eeaac0a-3465-4779-92ab-c87764d18774.pdf">Java Programming Fundamentals</a></li>
+</ul>
 
 
 

@@ -88,7 +88,18 @@
       </a>
       <br>Linux
     </td>
-    
+     <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48" alt="Solidity" />
+      </a>
+      <br>Solidity
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
 <!--     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">

@@ -40,13 +40,19 @@
       </a>
       <br>Java
     </td>
+   <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48" alt="Solidity" />
+      </a>
+      <br>Solidity
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
-    <td align="center" width="96">
+  <td align="center" width="96"> 
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
       </a>
@@ -89,12 +95,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
-    </td>
-     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48" alt="Solidity" />
-      </a>
-      <br>Solidity
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">

@@ -96,12 +96,12 @@
       </a>
       <br>Linux
     </td>
-    <td align="center"  width="96">
+<!--     <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
-    </td>
+    </td> -->
 <!--     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
@@ -152,6 +152,8 @@
 
 > All my projects I have worked on.
 
+- 📂 &nbsp;NFT-Collection dApp - **[NFT-dApp]**
+- 📂 &nbsp;Whitelist dApp - **[W-dApp]**
 - 📂 &nbsp;Finance Manager - **[FM]**
 - 📂 &nbsp;Personal crypto token deployed on Solana Mainnet - **[NOIRE]**
 - 📂 &nbsp;Weather application - **[Weather]**
@@ -204,4 +206,6 @@
 [Weather]: https://github.com/AashishNandakumar/Weather "Weather application"
 [GPT-Mail]: https://github.com/AashishNandakumar/ChatGPT-Gmail "Browser extension"
 [FM]: https://github.com/AashishNandakumar/Finance-Manager "Finance Manager"
+[NFT-dApp]: https://github.com/AashishNandakumar/NFT-Collection "NFT-Dapp"
+[W-dApp]: https://github.com/AashishNandakumar/Whitelist-Dapp "Whitelist-Dapp"
 

@@ -41,7 +41,7 @@
     </td>
    <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48" alt="Solidity" />
+        <img src="https://metaschool.so/articles/wp-content/uploads/2022/03/Frame-76.png" width="48" height="48" alt="Solidity" />
       </a>
       <br>Solidity
     </td>
@@ -133,9 +133,15 @@
     </td>
    <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="48" height="48" alt="Next.js" />
+        <img src="https://www.dave-beaumont.co.uk/wp-content/uploads/2022/02/nextjs.png" width="48" height="48" alt="Next.js" />
       </a>
       <br>Next.js
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="48" height="48" alt="Hardhat" />
+      </a>
+      <br>Hardhat
     </td>
    <td align="center" width="96"> 
       <a href="#macropower-tech" >

@@ -180,12 +180,16 @@
 
 > All my projects I have worked on.
 
+- 📂 &nbsp;Decentralized Autonomous organisations - **[DAO]**
+- 📂 &nbsp;Initial Coin Offering - **[ICO]**
 - 📂 &nbsp;NFT-Collection dApp - **[NFT-dApp]**
 - 📂 &nbsp;Whitelist dApp - **[W-dApp]**
 - 📂 &nbsp;Finance Manager - **[FM]**
 - 📂 &nbsp;Personal crypto token deployed on Solana Mainnet - **[NOIRE]**
 - 📂 &nbsp;Weather application - **[Weather]**
 - 📂 &nbsp;Browser extension - **[GPT-Mail]**
+
+
 
 
 <h2 align="left" id="macropower-tech">My Certifications</h2>
@@ -236,4 +240,6 @@
 [FM]: https://github.com/AashishNandakumar/Finance-Manager "Finance Manager"
 [NFT-dApp]: https://github.com/AashishNandakumar/NFT-Collection "NFT-Dapp"
 [W-dApp]: https://github.com/AashishNandakumar/Whitelist-Dapp "Whitelist-Dapp"
+[DAO]: https://github.com/AashishNandakumar/DAO "DAO"
+[ICO]: https://github.com/AashishNandakumar/ICO-Dapp "ICO"
 

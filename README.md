@@ -4,7 +4,7 @@
  -->
  
  
- ![Black Technology LinkedIn Banner](https://github.com/AashishNandakumar/AashishNandakumar/assets/98106129/c1eda90f-1beb-4b79-a124-004654165ebc)
+<!--  ![Black Technology LinkedIn Banner](https://github.com/AashishNandakumar/AashishNandakumar/assets/98106129/c1eda90f-1beb-4b79-a124-004654165ebc) -->
 
  
  

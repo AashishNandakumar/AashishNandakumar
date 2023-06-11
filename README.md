@@ -69,14 +69,13 @@
 
 
 <h2 align="left">Github stats</h2>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar&column=7&theme=algolia&no-frame=true" alt="aashishnandakumar" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar&column=8&theme=algolia&no-frame=true" alt="aashishnandakumar" /> </p>
 
 <!-- <p align="center" width="900"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar" alt="aashishnandakumar" /></a> </p> -->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishnandakumar&show_icons=true&locale=en&layout=compact&theme=nord" alt="aashishnandakumar" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishnandakumar&show_icons=true&locale=en&theme=nord" alt="aashishnandakumar" /></p>
-<br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishnandakumar&theme=nord" alt="aashishnandakumar" /></p>
 
 

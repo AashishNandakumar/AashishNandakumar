@@ -18,7 +18,6 @@
 - :office: &nbsp;I'm currently studying at **[RNSIT]**
 - :seedling: &nbsp;I’m currently learning **WEB-3**
 - :speech_balloon: &nbsp;I like to talk about **AI** and **Blockchain**
-- :mailbox: &nbsp;Talk to me about  **C**
 - 👨‍💻 Most of my projects are available on **[Github]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 

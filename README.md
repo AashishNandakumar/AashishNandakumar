@@ -72,14 +72,16 @@
 
 
 <h2 align="left">Github stats</h2>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar&column=8&theme=algolia&no-frame=true" alt="aashishnandakumar" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar&column=8&theme=radical&no-frame=true" alt="aashishnandakumar" /> </p>
 
 <!-- <p align="center" width="900"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar" alt="aashishnandakumar" /></a> </p> -->
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishnandakumar&show_icons=true&locale=en&layout=compact&theme=nord" alt="aashishnandakumar" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishnandakumar&show_icons=true&locale=en&layout=compact&theme=radical" alt="aashishnandakumar" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishnandakumar&show_icons=true&locale=en&theme=nord" alt="aashishnandakumar" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishnandakumar&theme=nord" alt="aashishnandakumar" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishnandakumar&show_icons=true&locale=en&theme=radical" alt="aashishnandakumar" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishnandakumar&theme=radical" alt="aashishnandakumar" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aashishnandakumar&theme=radical" alt="aashishnandakumar" /></p> -->
+
 
 
 
@@ -90,6 +92,8 @@
 <p align="center">
 <a href="https://twitter.com/aashishnandak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aashishnandak" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aashish-nandakumar-932972228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashish nandakumar" height="30" width="40" /></a>
+ 
+ 
 <!-- <a href="https://stackoverflow.com/users/17985527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17985527" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/s1rn21cs003" target="blank"><img align="center" src="https://cdn.dribbble.com/users/70628/screenshots/1743345/codechef.png" alt="s1rn21cs003" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aashishnandakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aashishnandakumar" height="30" width="40" /></a> -->

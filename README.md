@@ -1,5 +1,7 @@
 
 <h1 align="center" id="macropower-title">:wave: Hello there! I'm Aashish Nandakumar</h1>
+
+---
 <!-- <img align="right" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" />
  -->
  

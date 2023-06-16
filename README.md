@@ -36,7 +36,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,solidity,vercel,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,solidity,vercel,vscode,python" />
   </a>
 </p>
 

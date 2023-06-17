@@ -72,9 +72,15 @@
 
 
 <h2 align="left">Github stats</h2>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar&column=8&theme=radical&no-frame=true" alt="aashishnandakumar" /> </p>
+<p align="center"><b>Visitors Count  </b></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{aashishnandakumar}/count.svg" /></p> 
+<br/>
 
 <!-- <p align="center" width="900"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar" alt="aashishnandakumar" /></a> </p> -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aashishnandakumar&bg_color=000000&color=a08f22&line=a08f22&point=49c0d0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar&column=8&theme=radical&no-frame=true" alt="aashishnandakumar" /> </p>
+
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishnandakumar&show_icons=true&locale=en&layout=compact&theme=radical" alt="aashishnandakumar" /></p>
 

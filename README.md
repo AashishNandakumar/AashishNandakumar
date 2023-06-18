@@ -82,7 +82,8 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar&column=8&theme=radical&no-frame=true" alt="aashishnandakumar" /> </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishnandakumar&show_icons=true&locale=en&layout=compact&theme=radical" alt="aashishnandakumar" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishnandakumar&show_icons=true&locale=en&layout=pie&theme=radical" alt="aashishnandakumar" /></p>
+
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishnandakumar&show_icons=true&locale=en&theme=radical" alt="aashishnandakumar" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishnandakumar&theme=radical" alt="aashishnandakumar" /></p>

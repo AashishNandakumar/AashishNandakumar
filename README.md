@@ -14,7 +14,7 @@
  
 <img align="right" src="https://media0.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=ecf05e478fsnqrckfkjqmoo9v78nwmsjqi7c6qljy8k6h2p3&rid=giphy.gif&ct=g" width="450" height="250" />
 
-<h3 align="left">I am a Versatilist, doing Random things</h3>
+<h3 align="left">I am a Versatilist</h3>
 
 
 - :office: &nbsp;I'm currently studying at **[RNSIT]**

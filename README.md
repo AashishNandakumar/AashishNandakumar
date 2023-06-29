@@ -12,7 +12,7 @@
  
  
  
-<img align="right" src="https://media0.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=ecf05e478fsnqrckfkjqmoo9v78nwmsjqi7c6qljy8k6h2p3&rid=giphy.gif&ct=g" width="450" height="250" />
+<img align="right" src="https://media2.giphy.com/media/gU25raLP4pUu4/giphy.gif?cid=ecf05e47qi42mzc3gatgew7u1ca4v3ouau55zkwaur3acw47&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="450" height="250" />
 
 <h3 align="left">I am a Versatilist</h3>
 

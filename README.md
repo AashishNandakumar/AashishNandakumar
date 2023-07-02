@@ -1,5 +1,8 @@
 
 <h1 align="center" id="macropower-title">:wave: Hello there! I'm Aashish Nandakumar</h1>
+<p align="center"><b>Visitors Count  </b></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{aashishnandakumar}/count.svg" /></p> 
+
 
 ---
 <!-- <img align="right" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" />
@@ -12,16 +15,15 @@
  
  
 
-<img align="right" src="https://media3.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif?cid=ecf05e474eioqsxtch2ma80m3ypyoxk45n39mh0qyuf7d8fo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="420" height="250" /> 
+<img align="right" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47ooc2gb1fdf4nl8ak6xfb3ul8pjmiqrbko6qoaopm&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="420" height="260" /> 
 
-<h3 align="left">I am a Versatilist</h3>
+<h3 align="left">&nbsp;I am a Versatilist</h3>
 <br/>
-<p align="left">
-🔭 I’m currently working on Decentralized Supply-chain-management<br/><br/>
-👯 I’m looking to collaborate on Blockchain technology and Web development<br/><br/>
-🌱 I’m currently learning CSS<br/>
-</p>
-<br>
+
+🔭 &nbsp; I’m currently working on Decentralized Supply-chain-management<br/><br/>
+👯 &nbsp; I’m looking to collaborate on Blockchain technology and Web development<br/><br/>
+📫 &nbsp; How to reach me - **aashishnkumar@gmail.com** <br/><br/>
+📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>
 
 <h2 align="left" id="macropower-tech">My Skills</h2>
 
@@ -33,8 +35,8 @@
 </p>
 
 
-
-<!-- <h2 align="left" id="macropower-tech">My projects</h2>
+<!--
+ <h2 align="left" id="macropower-tech">My projects</h2>
 
 > All my projects I have worked on.
 
@@ -46,8 +48,8 @@
 - 📂 &nbsp;Finance Manager - **[FM]**
 - 📂 &nbsp;Personal crypto token deployed on Solana Mainnet - **[NOIRE]**
 - 📂 &nbsp;Weather application - **[Weather]**
-- 📂 &nbsp;Browser extension - **[GPT-Mail]** -->
-
+- 📂 &nbsp;Browser extension - **[GPT-Mail]** 
+-->
 
 
 
@@ -65,39 +67,32 @@
 
 
 <h2 align="left">Github stats</h2>
-<p align="center"><b>Visitors Count  </b></p> 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{aashishnandakumar}/count.svg" /></p> 
-<br/>
 
+> My Github report
 <!-- <p align="center" width="900"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar" alt="aashishnandakumar" /></a> </p> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aashishnandakumar&bg_color=0d1117&color=ffffff&line=a08f22&point=49c0d0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar&column=8&theme=radical&no-frame=true" alt="aashishnandakumar" /> </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishnandakumar&show_icons=true&locale=en&layout=pie&theme=radical" alt="aashishnandakumar" /></p>
 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishnandakumar&show_icons=true&locale=en&theme=radical" alt="aashishnandakumar" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishnandakumar&theme=radical" alt="aashishnandakumar" /></p>
+<p align="center" display="inline"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishnandakumar&show_icons=true&locale=en&theme=radical" alt="aashishnandakumar" width="500px" display="inline"/></p>
+<p align="center" display="inline"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishnandakumar&theme=radical" alt="aashishnandakumar" width="500px"/></p>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aashishnandakumar&theme=radical" alt="aashishnandakumar" /></p> -->
 
 
 
 
-
-
-
 <h2 align="left">Connect with me:</h2>
-<p align="center">
-<a href="https://twitter.com/aashishnandak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aashishnandak" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aashish-nandakumar-932972228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashish nandakumar" height="30" width="40" /></a>
- 
- 
-<!-- <a href="https://stackoverflow.com/users/17985527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17985527" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/s1rn21cs003" target="blank"><img align="center" src="https://cdn.dribbble.com/users/70628/screenshots/1743345/codechef.png" alt="s1rn21cs003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aashishnandakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aashishnandakumar" height="30" width="40" /></a> -->
-</p>
+<div align="center">
+<a href="https://github.com/aashishnandakumar" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/AashishNandaK" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/aashish-nandakumar-932972228" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 [RNSIT]: https://www.rnsit.ac.in "RNSIT Home"
 [issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
@@ -112,5 +107,5 @@
 [DAO]: https://github.com/AashishNandakumar/DAO "DAO"
 [ICO]: https://github.com/AashishNandakumar/ICO-Dapp "ICO"
 [GOVT-DAO]: https://github.com/AashishNandakumar/Govt-DAO "GOVT-DAO"
-
+[Resume]: https://flowcv.me/aashishnandakumar
 

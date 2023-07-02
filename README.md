@@ -11,18 +11,15 @@
  
  
  
- 
-<img align="right" src="https://media3.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif?cid=ecf05e474eioqsxtch2ma80m3ypyoxk45n39mh0qyuf7d8fo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="450" height="250" />
+<!-- 
+<img align="right" src="https://media3.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif?cid=ecf05e474eioqsxtch2ma80m3ypyoxk45n39mh0qyuf7d8fo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="450" height="250" /> -->
 
 <h3 align="left">I am a Versatilist</h3>
+<br/>
 
-
-- :office: &nbsp;I'm currently studying at **[RNSIT]**
-- :seedling: &nbsp;I’m currently learning **Flow and CSS**
-- :speech_balloon: &nbsp;I like to talk about **AI** and **Blockchain**
-- 🙂&nbsp; Fun fact: Error-404
-- 👨‍💻&nbsp; Most of my projects are available on **[Github]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+🔭 I’m currently working on decentralized Supply chain management<br/><br/>
+👯 I’m looking to collaborate on blockchain technology and Web development<br/><br/>
+🌱 I’m currently learning CSS<br/><br/>
 
 <br>
 
@@ -31,14 +28,10 @@
 >Software and Technology I use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,figma,git,github,html,idea,java,js,latex,linux,mysql,nextjs" />
+    <img src="https://skillicons.dev/icons?i=c,java,solidity,html,css" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,solidity,vercel,vscode,python" />
-  </a>
-</p>
+
 
 
 <!-- <h2 align="left" id="macropower-tech">My projects</h2>

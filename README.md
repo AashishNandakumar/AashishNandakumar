@@ -15,7 +15,7 @@
  
  
 
-<img align="right" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47ooc2gb1fdf4nl8ak6xfb3ul8pjmiqrbko6qoaopm&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="420" height="260" /> 
+<img align="right" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47ooc2gb1fdf4nl8ak6xfb3ul8pjmiqrbko6qoaopm&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400" height="260" /> 
 
 <h3 align="left">&nbsp;I am a Versatilist</h3>
 <br/>

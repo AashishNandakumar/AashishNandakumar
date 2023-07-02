@@ -11,15 +11,15 @@
  
  
  
-<!-- 
-<img align="right" src="https://media3.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif?cid=ecf05e474eioqsxtch2ma80m3ypyoxk45n39mh0qyuf7d8fo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="450" height="250" /> -->
 
-<h3 align="center">I am a Versatilist</h3>
+<img align="right" src="https://media3.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif?cid=ecf05e474eioqsxtch2ma80m3ypyoxk45n39mh0qyuf7d8fo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="420" height="250" /> 
+
+<h3 align="left">I am a Versatilist</h3>
 <br/>
-<p align="center">
-Currently working on Decentralized Supply-chain-management technology<br/><br/>
-Looking to collaborate on blockchain technology and Web development<br/><br/>
-Currently learning CSS
+<p align="left">
+🔭 I’m currently working on Decentralized Supply-chain-management<br/><br/>
+👯 I’m looking to collaborate on Blockchain technology and Web development<br/><br/>
+🌱 I’m currently learning CSS<br/>
 </p>
 <br>
 

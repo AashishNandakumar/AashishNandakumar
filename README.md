@@ -27,7 +27,7 @@
 
 <h2 align="left" id="macropower-tech">My Skills</h2>
 
-> Software and Technology I use
+> Languages and Frameworks I use
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,solidity,html,css" />

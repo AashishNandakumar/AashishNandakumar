@@ -75,12 +75,12 @@
 
 > My Github report
 <!-- <p align="center" width="900"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar" alt="aashishnandakumar" /></a> </p> -->
+<p align="center" width="900"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar&column=8&theme=radical&no-frame=true" alt="aashishnandakumar" /></a> </p>
 
 
 
-
-<p align="center" display="inline"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishnandakumar&show_icons=true&locale=en&theme=radical" alt="aashishnandakumar" width="500px" display="inline"/></p>
-<p align="center" display="inline"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishnandakumar&theme=radical" alt="aashishnandakumar" width="500px"/></p>
+<p align="center" display="inline"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishnandakumar&show_icons=true&locale=en&theme=radical&hide_border=true" alt="aashishnandakumar" width="500px" display="inline"/></p>
+<p align="center" display="inline"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishnandakumar&theme=radical&hide_border=true" alt="aashishnandakumar" width="500px"/></p>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aashishnandakumar&theme=radical" alt="aashishnandakumar" /></p> -->
 
 

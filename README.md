@@ -27,13 +27,18 @@
 
 <h2 align="left" id="macropower-tech">My Skills</h2>
 
->Software and Technology I use
+> Software and Technology I use
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,solidity,html,css" />
   </a>
 </p>
 
+<h2 align="left" id="macropower-tech">My Projects</h2>
+
+> Coming soon...
+
+<br/><br/>
 
 <!--
  <h2 align="left" id="macropower-tech">My projects</h2>

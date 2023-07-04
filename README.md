@@ -17,7 +17,7 @@
 
 <img align="right" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47ooc2gb1fdf4nl8ak6xfb3ul8pjmiqrbko6qoaopm&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="410" height="260" /> 
 
-<h3 align="left">&nbsp;I am a Versatilist</h3>
+<h3 align="left">&nbsp;I am a Versatilist.</h3>
 <br/>
 
 🔭 &nbsp; I’m currently working on Decentralized Supply-chain-management<br/><br/>

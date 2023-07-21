@@ -20,7 +20,7 @@
 <h3 align="left">&nbsp;I am a Versatilist.</h3>
 <br/>
 
-🔭 &nbsp; I’m currently working on Decentralized Supply-chain-management<br/><br/>
+🔭 &nbsp; I’m currently working on Neural networks<br/><br/>
 👯 &nbsp; I’m looking to collaborate on Blockchain technology and Web development<br/><br/>
 📫 &nbsp; How to reach me - **aashishnkumar@gmail.com** <br/><br/>
 📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>

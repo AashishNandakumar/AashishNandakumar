@@ -112,5 +112,5 @@
 [DAO]: https://github.com/AashishNandakumar/DAO "DAO"
 [ICO]: https://github.com/AashishNandakumar/ICO-Dapp "ICO"
 [GOVT-DAO]: https://github.com/AashishNandakumar/Govt-DAO "GOVT-DAO"
-[Resume]: https://flowcv.me/aashishnandakumar
+[Resume]: https://github.com/AashishNandakumar/Resume/tree/main
 

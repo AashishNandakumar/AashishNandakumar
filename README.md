@@ -36,7 +36,7 @@
 
 <h2 align="left" id="macropower-tech">My Projects</h2>
 
-> Coming soon...
+> Coming Soon...
 
 <br/><br/>
 

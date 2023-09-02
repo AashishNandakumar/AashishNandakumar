@@ -21,7 +21,7 @@
 <br/>
 
 🔭 &nbsp; I’m currently working on myself<br/><br/>
-👯 &nbsp; I’m willing to collaborate on Blockchain technology and Web development<br/><br/>
+👯 &nbsp; I’m willing to collaborate on any project<br/><br/>
 📫 &nbsp; How to reach me - **aashishnkumar@gmail.com** <br/><br/>
 📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>
 
@@ -30,7 +30,7 @@
 > Languages and Frameworks I use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,solidity,html,css,bootstrap,js,nextjs" />
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,figma,git,html,idea,java,js,latex,linux,mysql,nextjs,nodejs,py,react,solidity,vercel,vscode, " />
   </a>
 </p>
 

@@ -1,20 +1,9 @@
-
 <h1 align="center" id="macropower-title">:wave: Hello there! I'm Aashish Nandakumar</h1>
 <p align="center"><b>Visitors Count  </b></p> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{aashishnandakumar}/count.svg" /></p> 
 
 
 ---
-<!-- <img align="right" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" />
- -->
- 
- 
-<!--  ![Black Technology LinkedIn Banner](https://github.com/AashishNandakumar/AashishNandakumar/assets/98106129/c1eda90f-1beb-4b79-a124-004654165ebc) -->
-
- 
- 
- 
-
 <img align="right" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47ooc2gb1fdf4nl8ak6xfb3ul8pjmiqrbko6qoaopm&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="410" height="260" /> 
 
 <h3 align="left">&nbsp;I am a Versatilist.</h3>

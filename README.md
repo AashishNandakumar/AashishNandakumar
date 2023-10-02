@@ -23,22 +23,41 @@
 🔭 &nbsp; I’m currently working on myself<br/><br/>
 👯 &nbsp; I’m willing to collaborate on any project<br/><br/>
 📫 &nbsp; How to reach me - **aashishnkumar@gmail.com** <br/><br/>
-📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>
+<!-- 📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/> -->
 
 <h2 align="left" id="macropower-tech">My Skills</h2>
 
 > Languages and Frameworks I use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,figma,git,html,idea,java,js,latex,linux,mysql,nextjs,nodejs,py,react,solidity,vercel,vscode, " />
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,figma,git,html,idea,java,js,latex,linux,nextjs,nodejs,py,react,solidity,vercel,vscode," />
   </a>
 </p>
 
+
+<h2 align="left">Connect with me:</h2>
+<div align="center">
+<a href="https://github.com/aashishnandakumar" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/AashishNandaK" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/aashish-nandakumar-932972228" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+
+
+
+<!--
 <h2 align="left" id="macropower-tech">My Projects</h2>
 
 > Coming Soon...
 
 <br/><br/>
+-->
 
 <!--
  <h2 align="left" id="macropower-tech">My projects</h2>
@@ -69,19 +88,18 @@
   <li> :dart:	<a href="https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_29959473947367270000_shared/1-2eeaac0a-3465-4779-92ab-c87764d18774.pdf">Java Programming Fundamentals</a></li>
 </ul> -->
  
-
+<!--
 
 <h2 align="left">Github stats</h2>
 
 > My Github report
-<!-- <p align="center" width="900"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar" alt="aashishnandakumar" /></a> </p> -->
+
 <p align="center" width="900"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar&column=8&theme=radical&no-frame=true" alt="aashishnandakumar" /></a> </p>
 
 
 
 <p align="center" display="inline"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishnandakumar&show_icons=true&locale=en&theme=radical&hide_border=true" alt="aashishnandakumar" width="500px" display="inline"/></p>
 <p align="center" display="inline"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishnandakumar&theme=radical&hide_border=true" alt="aashishnandakumar" width="500px"/></p>
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aashishnandakumar&theme=radical" alt="aashishnandakumar" /></p> -->
 
 
 
@@ -114,3 +132,4 @@
 [GOVT-DAO]: https://github.com/AashishNandakumar/Govt-DAO "GOVT-DAO"
 [Resume]: https://github.com/AashishNandakumar/Resume/tree/main
 
+-->

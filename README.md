@@ -11,7 +11,7 @@
 🔭 &nbsp; I’m currently working on myself<br/><br/>
 👯 &nbsp; I’m willing to collaborate on any project<br/><br/>
 📫 &nbsp; How to reach me - **aashishnkumar@gmail.com** <br/><br/>
-<!-- 📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/> -->
+📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>
 
 <h2 align="left" id="macropower-tech">My Skills</h2>
 
@@ -118,6 +118,6 @@
 [DAO]: https://github.com/AashishNandakumar/DAO "DAO"
 [ICO]: https://github.com/AashishNandakumar/ICO-Dapp "ICO"
 [GOVT-DAO]: https://github.com/AashishNandakumar/Govt-DAO "GOVT-DAO"
-[Resume]: https://github.com/AashishNandakumar/Resume/tree/main
 
 -->
+[Resume]: https://github.com/AashishNandakumar/Resume/tree/main

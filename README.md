@@ -1,6 +1,6 @@
 <h1 align="center" id="macropower-title">:wave: Hello there! I'm Aashish Nandakumar</h1>
 
-<img align="right" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47ooc2gb1fdf4nl8ak6xfb3ul8pjmiqrbko6qoaopm&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="410" height="260" /> 
+<img align="right" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47ooc2gb1fdf4nl8ak6xfb3ul8pjmiqrbko6qoaopm&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="410" height="240" /> 
 
 <h3 align="left">&nbsp;I am a Versatilist.</h3>
 <br/>
@@ -14,7 +14,9 @@
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=aashishnandakumar&style=flat&color=blue"/> •   
   <a href="https://user-badge.committers.top/india_private/aashishnandakumar"><img src="https://user-badge.committers.top/india_private/aashishnandakumar.svg"></a> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/aashishnandakumar?label=Followers&style=social"/> •
-  <img src="https://img.shields.io/github/stars/aashishnandakumar?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> 
+  <img src="https://img.shields.io/github/stars/aashishnandakumar?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
+  <a href="https://github.com/sponsors/JayantGoel001"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+
 </p>
 
 ---

@@ -1,28 +1,62 @@
 <h1 align="center" id="macropower-title">:wave: Hello there! I'm Aashish Nandakumar</h1>
-<p align="center"><b>Visitors Count  </b></p> 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{aashishnandakumar}/count.svg" /></p> 
 
----
 <img align="right" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47ooc2gb1fdf4nl8ak6xfb3ul8pjmiqrbko6qoaopm&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="410" height="260" /> 
 
 <h3 align="left">&nbsp;I am a Versatilist.</h3>
 <br/>
 
-🔭 &nbsp; I’m currently working on myself<br/><br/>
-👯 &nbsp; I’m willing to collaborate on any project<br/><br/>
+🔭 &nbsp; I’m currently working on Blockchain and Web Development<br/><br/>
+👯 &nbsp; I’m willing to collaborate on any Web3, Full-Stack development<br/><br/>
 📫 &nbsp; How to reach me - **aashishnkumar@gmail.com** <br/><br/>
 📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>
+
+<p align="center">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=aashishnandakumar&style=flat&color=blue"/> •   
+  <a href="https://user-badge.committers.top/india_private/aashishnandakumar"><img src="https://user-badge.committers.top/india_private/aashishnandakumar.svg"></a> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/aashishnandakumar?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/aashishnandakumar?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
+  <a href="https://github.com/sponsors/aashishnandakumar"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
+
+---
+<p align="center" width="900"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar&column=9&theme=radical&no-frame=true" alt="aashishnandakumar" /></a> </p>
+
+<!--<p align="center" display="inline"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishnandakumar&show_icons=true&locale=en&theme=radical&hide_border=true" alt="aashishnandakumar" width="500px" display="inline"/></p>
+-->
+<br/>
+<p align="center" display="inline"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishnandakumar&theme=radical&hide_border=true" alt="aashishnandakumar" width="500px"/></p>
 
 <h2 align="left" id="macropower-tech">My Skills</h2>
 
 > Languages and Frameworks I use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,figma,git,html,idea,java,js,latex,linux,nextjs,nodejs,py,react,solidity,vercel,vscode," />
+     <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,figma,git,html,idea,java,js,latex,linux,nextjs,nodejs,py,react,solidity,vercel,vscode," />
   </a>
 </p>
 
+#
 
+<details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br/>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishnandakumar&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishnandakumar&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
+
+
+<br/>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=aashishnandakumar&theme=react-dark&hide_border=true&area=true)
+
+
+<br/>
 <h2 align="left">Connect with me:</h2>
 <div align="center">
 <a href="https://github.com/aashishnandakumar" target="_blank">

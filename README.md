@@ -10,6 +10,7 @@
 📫 &nbsp; How to reach me - **aashishnkumar@gmail.com** <br/><br/>
 📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>
 
+<br/>
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=aashishnandakumar&style=flat&color=blue"/> •   
   <a href="https://user-badge.committers.top/india_private/aashishnandakumar"><img src="https://user-badge.committers.top/india_private/aashishnandakumar.svg"></a> •

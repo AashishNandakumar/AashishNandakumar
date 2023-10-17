@@ -5,8 +5,8 @@
 <h3 align="left">&nbsp;I am a Versatilist.</h3>
 <br/>
 
-🔭 &nbsp; I’m currently working on Blockchain and Web Development<br/><br/>
-👯 &nbsp; I’m willing to collaborate on any Web3, Full-Stack development<br/><br/>
+🔭 &nbsp; I’m currently learning AWS and Python<br/><br/>
+👯 &nbsp; I’m willing to collaborate on Python Projects<br/><br/>
 📫 &nbsp; How to reach me - **aashishnkumar@gmail.com** <br/><br/>
 📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>
 

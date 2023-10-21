@@ -1,6 +1,6 @@
 <h1 align="center" id="macropower-title">:wave: Hello there! I'm Aashish Nandakumar</h1>
 
-<img align="right" src="https://github.com/AashishNandakumar/AashishNandakumar/assets/98106129/8c774928-4136-4b24-82d5-96a54f6730ed" width="410" height="260" /> 
+<img align="right" src="https://github.com/AashishNandakumar/AashishNandakumar/assets/98106129/8c774928-4136-4b24-82d5-96a54f6730ed" width="410" height="240" /> 
 
 <h3 align="left">&nbsp;I am a Versatilist.</h3>
 <br/>

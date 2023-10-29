@@ -32,7 +32,7 @@
 > Languages and Frameworks I worked on
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,figma,git,html,idea,java,js,latex,linux,nextjs,nodejs,py,react,solidity,vercel,vscode," />
+     <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,figma,git,html,java,js,nextjs,py,solidity,vercel," />
   </a>
 </p>
 

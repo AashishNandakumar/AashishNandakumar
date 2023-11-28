@@ -155,4 +155,4 @@
 [GOVT-DAO]: https://github.com/AashishNandakumar/Govt-DAO "GOVT-DAO"
 
 -->
-[Resume]: https://github.com/AashishNandakumar/Resume/tree/main
+[Resume]: https://github.com/AashishNandakumar/Resume/blob/main/Resume%20(1).pdf

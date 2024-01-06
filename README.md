@@ -29,7 +29,7 @@
 
 <h2 align="left" id="macropower-tech">My Skills</h2>
 
-> Languages and Frameworks I worked on
+> Technologies familiar with:
 <p align="center">
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=aws,bootstrap,c,cpp,css,django,figma,git,html,java,js,nextjs,postgres,py,react,solidity&perline=8" />

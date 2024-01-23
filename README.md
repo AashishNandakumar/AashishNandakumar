@@ -5,7 +5,7 @@
 <h3 align="left">&nbsp;I am a Versatilist.</h3>
 <br/>
 
-🔭 &nbsp; I’m currently learning AWS and Python<br/><br/>
+🔭 &nbsp; I’m currently working with Python(and its derivatives)<br/><br/>
 👯 &nbsp; I’m willing to collaborate on Python Projects<br/><br/>
 📫 &nbsp; How to reach me - **aashishnkumar@gmail.com** <br/><br/>
 📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>

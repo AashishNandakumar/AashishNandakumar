@@ -4,8 +4,9 @@
 🔭 &nbsp; I’m currently exploring with Backend development with Django, Docker and AWS.<br/><br/>
 👯 &nbsp; I’m love to build infrastructures for different services using cloud computing.<br/><br/>
 📫 &nbsp; How to reach me - **aashishnkumar@gmail.com** <br/><br/>
+<!--
 📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>
-
+-->
 <br/>
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=aashishnandakumar&style=flat&color=blue"/> •   

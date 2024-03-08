@@ -1,5 +1,5 @@
 <h1 align="center" id="macropower-title">:wave: Hello there! I'm Aashish Nandakumar</h1>
-
+<!--
 <img align="right" src="https://github.com/AashishNandakumar/AashishNandakumar/assets/98106129/8c774928-4136-4b24-82d5-96a54f6730ed" width="410" height="240" /> 
 
 <h3 align="left">&nbsp;I am a Versatilist.</h3>
@@ -9,7 +9,7 @@
 👯 &nbsp; I’m willing to work on backend development<br/><br/>
 📫 &nbsp; How to reach me - **aashishnkumar@gmail.com** <br/><br/>
 📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>
-
+-->
 <br/>
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=aashishnandakumar&style=flat&color=blue"/> •   
@@ -32,7 +32,7 @@
 > Technologies I work on:
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=aws,cpp,django,git,postgres,py,react&perline=8" />
+     <img src="https://skillicons.dev/icons?i=aws,cpp,django,git,java,postgres,py,react&perline=8" />
   </a>
 </p>
 

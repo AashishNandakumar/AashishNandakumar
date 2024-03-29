@@ -29,7 +29,7 @@
 > Technologies I work on:
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=aws,django,docker,git,mysql,postgres,py,postman,ubuntu&perline=9" />
+     <img src="https://skillicons.dev/icons?i=aws,bash,django,docker,git,mysql,postgres,py,postman,ubuntu&perline=10" />
   </a>
 </p>
 

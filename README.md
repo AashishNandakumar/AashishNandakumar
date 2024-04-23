@@ -1,7 +1,7 @@
 <h1 align="center" id="macropower-title">:wave: Hello there! I'm Aashish Nandakumar</h1>
 
 
-🔭 &nbsp; I’m currently exploring with Backend development with Django, Docker and AWS.<br/><br/>
+🔭 &nbsp; I’m currently exploring Backend development through Python(Django) and Go, DevOps and Cloud engineering through AWS.<br/><br/>
 👯 &nbsp; I’m love to build infrastructures for different services using cloud computing.<br/><br/>
 📫 &nbsp; How to reach me - **aashishnandakumar.official.in@gmail.com** <br/><br/>
 <!--

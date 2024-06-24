@@ -1,8 +1,8 @@
 <h1 align="center" id="macropower-title">:wave: Hello there! I'm Aashish Nandakumar</h1>
 
 
-🔭 &nbsp; I’m currently learning and buiding products through Python(Django), DevOps and AWS.<br/><br/>
-👯 &nbsp; I’m love to build infrastructures for different services using cloud computing.<br/><br/>
+🔭 &nbsp; I’m currently learning and buiding products through Django and Golang.<br/><br/>
+👯 &nbsp; I love to build infrastructures for different services using Cloud computing and DevOps.<br/><br/>
 📫 &nbsp; How to reach me - **aashishnandakumar.official.in@gmail.com** <br/><br/>
 <!--
 📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>

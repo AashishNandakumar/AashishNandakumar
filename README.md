@@ -26,14 +26,12 @@
 
 <h2 align="left" id="macropower-tech">My Skills</h2>
 
-> Technologies I work on:
+> Technologies I am working on:
 <p align="center">
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=aws,bash,django,docker,git,mysql,postgres,py,postman,ubuntu&perline=10" />
-     <img src="https://skillicons.dev/icons?i=c,cpp,java,css,githubactions,html,js,react,redis,linux&perline=10" />
+     <img src="https://skillicons.dev/icons?i=githubactions,redis,linux,kafka,raspberrypi,go&perline=10" />
     <br/>
-     <img src="https://skillicons.dev/icons?i=kafka,raspberrypi&perline=2" />
-
 
   </a>
 </p>

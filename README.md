@@ -30,7 +30,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=aws,bash,django,docker,git,mysql,postgres,py,postman,ubuntu&perline=10" />
-     <img src="https://skillicons.dev/icons?i=githubactions,redis,linux,kafka,raspberrypi,go&perline=10" />
+     <img src="https://skillicons.dev/icons?i=githubactions,redis,linux,kafka,raspberrypi,go,github,grafana,jenkins,prometheus&perline=10" />
+
     <br/>
 
   </a>

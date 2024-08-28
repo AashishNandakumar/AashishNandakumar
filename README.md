@@ -1,14 +1,5 @@
 <h1 align="center" id="macropower-title">:wave: Hello there! I'm Aashish Nandakumar</h1>
 
-
-🔭 I'm currently building products and trading algorithms using Python and Golang. <br/><br/>
-👯 I specialize in developing robust infrastructures with Golang and crafting applications in Python, leveraging AWS for cloud solutions. <br/><br/>
-💹 Passionate about Quantitative Finance and Algorithmic Trading, applying my skills to create cutting-edge trading systems. <br/><br/>
-📫 &nbsp; How to reach me - **aashishnandakumar.official.in@gmail.com** <br/><br/>
-<!--
-📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>
--->
-<br/>
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=aashishnandakumar&style=flat&color=blue"/> •   
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/aashishnandakumar?label=Followers&style=social"/> •
@@ -17,12 +8,16 @@
 </p>
 
 ---
-<p align="center" width="900"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishnandakumar&column=9&theme=radical&no-frame=true" alt="aashishnandakumar" /></a> </p>
 
-<!--<p align="center" display="inline"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishnandakumar&show_icons=true&locale=en&theme=radical&hide_border=true" alt="aashishnandakumar" width="500px" display="inline"/></p>
+🔭 I'm currently building products and trading algorithms using Python and Golang. <br/><br/>
+👯 I specialize in developing robust infrastructures with Golang and crafting applications in Python, leveraging AWS for cloud solutions. <br/><br/>
+💹 Passionate about Quantitative Finance and Algorithmic Trading, applying my skills to create cutting-edge trading systems. <br/><br/>
+📫 &nbsp; How to reach me - **aashishnandakumar.official.in@gmail.com** <br/><br/>
+<!--
+📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>
 -->
-<br/>
-<p align="center" display="inline"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishnandakumar&theme=radical&hide_border=true" alt="aashishnandakumar" width="500px"/></p>
+
+---
 
 <h2 align="left" id="macropower-tech">My Skills</h2>
 
@@ -47,6 +42,9 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white)
 
+---
+
+
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -60,25 +58,7 @@
 </p>
 </details>
 
-
-<br/>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=aashishnandakumar&theme=react-dark&hide_border=true&area=true)
-
-
-<br/>
-<h2 align="left">Connect with me:</h2>
-<div align="center">
-<a href="https://github.com/aashishnandakumar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/AashishNandaK" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/aashish-nandakumar-932972228" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+---
 
 
 

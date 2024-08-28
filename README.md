@@ -1,8 +1,9 @@
 <h1 align="center" id="macropower-title">:wave: Hello there! I'm Aashish Nandakumar</h1>
 
 
-🔭 &nbsp; I’m currently learning and buiding products through Python and Golang.<br/><br/>
-👯 &nbsp; I love to build infrastructures for different services using Cloud computing and DevOps.<br/><br/>
+🔭 I'm currently building products and trading algorithms using Python and Golang. <br/><br/>
+👯 I specialize in developing robust infrastructures with Golang and crafting applications in Python, leveraging AWS for cloud solutions. <br/><br/>
+💹 Passionate about Quantitative Finance and Algorithmic Trading, applying my skills to create cutting-edge trading systems. <br/><br/>
 📫 &nbsp; How to reach me - **aashishnandakumar.official.in@gmail.com** <br/><br/>
 <!--
 📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>
@@ -10,7 +11,6 @@
 <br/>
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=aashishnandakumar&style=flat&color=blue"/> •   
-  <a href="https://user-badge.committers.top/india_private/aashishnandakumar"><img src="https://user-badge.committers.top/india_private/aashishnandakumar.svg"></a> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/aashishnandakumar?label=Followers&style=social"/> •
   <img src="https://img.shields.io/github/stars/aashishnandakumar?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> 
 

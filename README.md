@@ -9,7 +9,7 @@
 
 ---
 
-🔭 I'm currently building products and trading algorithms using Python. <br/><br/>
+🔭 I'm currently building GenAI products and trading algorithms using Python. <br/><br/>
 👯 I specialize in developing robust infrastructures and applications in Python, leveraging AWS for cloud solutions. <br/><br/>
 💹 Passionate about Quantitative Finance and Algorithmic Trading, applying my skills to create cutting-edge trading systems. <br/><br/>
 📫 &nbsp; How to reach me - **aashishnandakumar.official.in@gmail.com** <br/><br/>

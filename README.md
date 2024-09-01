@@ -7,7 +7,8 @@
 
 </p>
 
----
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 
 🔭 I'm currently building GenAI products and trading algorithms using Python. <br/><br/>
 👯 I specialize in developing robust infrastructures and applications in Python, leveraging AWS for cloud solutions. <br/><br/>
@@ -17,7 +18,8 @@
 📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>
 -->
 
----
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 
 <h2 align="left" id="macropower-tech">My Skills</h2>
 
@@ -45,7 +47,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
----
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 
 
 <details open="">
@@ -61,7 +64,8 @@
 </p>
 </details>
 
----
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 
 
 

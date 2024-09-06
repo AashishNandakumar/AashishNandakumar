@@ -3,9 +3,9 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 
-🔭 I'm currently building GenAI products and trading algorithms using Python. <br/><br/>
+🔭 I'm currently building GenAI products and services using Python. <br/><br/>
 👯 I specialize in developing robust infrastructures and applications in Python, leveraging AWS for cloud solutions. <br/><br/>
-💹 Passionate about Quantitative Finance and Algorithmic Trading, applying my skills to create cutting-edge trading systems. <br/><br/>
+💹 Passionate about Data Science, Quantitative Finance and Algorithmic Trading <br/><br/>
 📫 &nbsp; How to reach me - **aashishnandakumar.official.in@gmail.com** <br/><br/>
 <!--
 📄 &nbsp; Know about my experiences - **[Resume]** <br/><br/>

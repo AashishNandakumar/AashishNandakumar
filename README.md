@@ -46,18 +46,20 @@
 
 <div align="center">
   <table>
-<!--     <tr>
+   <tr>
       <th>Name</th>
       <th>Domain</th>
       <th>Stack</th>
       <th>Link</th>
     </tr>
     <tr>
-      <td>Project 1</td>
-      <td>Web Development</td>
-      <td>Python, Django, AWS</td>
-      <td><a href="#">Link to Project 1</a></td>
+      <td>CodeScribe</td>
+      <td>Python Package</td>
+      <td>Python, unittest, GitHub Actions</td>
+      <td><a href="https://pypi.org/project/codescribe/">Link</a></td>
     </tr>
+<!--  
+
     <tr>
       <td>Project 2</td>
       <td>Data Engineering</td>

@@ -60,7 +60,7 @@
     </tr>
    <tr>
       <td>MiraPay</td>
-      <td>FintTech Solutions</td>
+      <td>FinTech Solutions</td>
       <td>Django, AWS, Docker, Microservices</td>
       <td><a href="https://github.com/AashishNandakumar/MiraPay-Backend">Link</a></td>
     </tr>

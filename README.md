@@ -64,13 +64,14 @@
       <td>Django, AWS, Docker, Microservices</td>
       <td><a href="https://github.com/AashishNandakumar/MiraPay-Backend">Link</a></td>
     </tr>
-    <!--  
     <tr>
-      <td>Project 3</td>
-      <td>DevOps</td>
-      <td>Docker, Jenkins, AWS</td>
-      <td><a href="#">Link to Project 3</a></td>
+      <td>Resume Parser</td>
+      <td>FullStack</td>
+      <td>Django, Regex, NLP/SpaCy, LangChain, DigitalOcean</td>
+      <td><a href="https://github.com/AashishNandakumar/resume-parsing-application">Link</a></td>
     </tr>
+        <!--  
+
     <tr>
       <td>Project 4</td>
       <td>Machine Learning</td>

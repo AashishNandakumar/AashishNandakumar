@@ -58,9 +58,7 @@
       <td>Python, unittest, GitHub Actions</td>
       <td><a href="https://pypi.org/project/codescribe/">Link</a></td>
     </tr>
-<!--  
-
-    <tr>
+<!--     <tr>
       <td>Project 2</td>
       <td>Data Engineering</td>
       <td>Python, Apache Kafka, AWS</td>
@@ -77,7 +75,7 @@
       <td>Machine Learning</td>
       <td>Python, TensorFlow, AWS</td>
       <td><a href="#">Link to Project 4</a></td>
-    </tr> -->
+    </tr>  -->
   </table>
 </div>
 

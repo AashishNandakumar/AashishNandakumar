@@ -42,6 +42,42 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+<h2  id="macropower-tech">My Projects</h2>
+
+<div align="center">
+  <table>
+<!--     <tr>
+      <th>Name</th>
+      <th>Domain</th>
+      <th>Stack</th>
+      <th>Link</th>
+    </tr>
+    <tr>
+      <td>Project 1</td>
+      <td>Web Development</td>
+      <td>Python, Django, AWS</td>
+      <td><a href="#">Link to Project 1</a></td>
+    </tr>
+    <tr>
+      <td>Project 2</td>
+      <td>Data Engineering</td>
+      <td>Python, Apache Kafka, AWS</td>
+      <td><a href="#">Link to Project 2</a></td>
+    </tr>
+    <tr>
+      <td>Project 3</td>
+      <td>DevOps</td>
+      <td>Docker, Jenkins, AWS</td>
+      <td><a href="#">Link to Project 3</a></td>
+    </tr>
+    <tr>
+      <td>Project 4</td>
+      <td>Machine Learning</td>
+      <td>Python, TensorFlow, AWS</td>
+      <td><a href="#">Link to Project 4</a></td>
+    </tr> -->
+  </table>
+</div>
 
 
 <details open="">
@@ -60,6 +96,8 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 
 

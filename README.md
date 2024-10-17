@@ -58,12 +58,13 @@
       <td>Python, unittest, GitHub Actions</td>
       <td><a href="https://pypi.org/project/codescribe/">Link</a></td>
     </tr>
-<!--     <tr>
-      <td>Project 2</td>
-      <td>Data Engineering</td>
-      <td>Python, Apache Kafka, AWS</td>
-      <td><a href="#">Link to Project 2</a></td>
+   <tr>
+      <td>MiraPay</td>
+      <td>FintTech Solutions</td>
+      <td>Django, AWS, Docker, Microservices</td>
+      <td><a href="https://github.com/AashishNandakumar/MiraPay-Backend">Link</a></td>
     </tr>
+    <!--  
     <tr>
       <td>Project 3</td>
       <td>DevOps</td>
